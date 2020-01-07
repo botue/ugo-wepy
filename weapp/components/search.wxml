@@ -2,9 +2,9 @@
 
 <view class="search {{ [ focused ? 'focused' : '' ] }}">
   
-  <view data-wpy-evt="7-0" bindtap="_proxy" class="input-wrap">
+  <view data-wpy-evt="9-4" bindtap="_proxy" class="input-wrap">
     <input type="text" placeholder="{{ placeholder }}"></input>
-    <label data-wpy-evt="7-1" catchtap="_proxy" class="cancel">取消</label>
+    <label data-wpy-evt="9-5" catchtap="_proxy" class="cancel">取消</label>
   </view>
   
   <view class="content">

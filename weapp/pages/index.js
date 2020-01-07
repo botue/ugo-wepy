@@ -13,7 +13,7 @@ _core["default"].page({
       this.pageHeight = ev.pageHeight + 'px';
     }
   }
-}, {info: {"components":{"search":{"path":"../components/search"}},"on":{"2-16":["search"]}}, handlers: {'2-16': {"search": function proxy () {
+}, {info: {"components":{"search":{"path":"../components/search"}},"on":{"2-0":["search"]}}, handlers: {'2-0': {"search": function proxy () {
     var $event = arguments[arguments.length - 1];
     var _vm=this;
       return (function () {

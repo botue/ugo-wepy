@@ -101,7 +101,7 @@
       &::after {
         height: 44rpx;
         line-height: 1;
-        background-image: url(https://ugo2.oss-cn-hangzhou.aliyuncs.com/images/icon_search%402x.png);
+        background-image: url(https://static.botue.com/ugo/images/icon_search%402x.png);
         background-size: 32rpx;
         background-position: 6rpx center;
         background-repeat: no-repeat;
@@ -167,7 +167,7 @@
         width: 27rpx;
         height: 27rpx;
         float: right;
-        background-image: url(https://ugo2.oss-cn-hangzhou.aliyuncs.com/images/clear.png);
+        background-image: url(https://static.botue.com/ugo/images/clear.png);
         background-size: cover;
       }
 

@@ -8,7 +8,7 @@
   </view>
   
   <scroll-view scroll-y="{{ true }}" class="goods">
-    <view data-wpy-evt="8-0" bindtap="_proxy" class="item">
+    <view data-wpy-evt="7-0" bindtap="_proxy" class="item">
       
       <image src="/static/uploads/goods_1.jpg" class="pic"></image>
       
@@ -17,7 +17,7 @@
         <view class="price"><label>￥</label>1399<label>.00</label></view>
       </view>
     </view>
-    <view data-wpy-evt="8-1" bindtap="_proxy" class="item">
+    <view data-wpy-evt="7-1" bindtap="_proxy" class="item">
       
       <image src="/static/uploads/goods_2.jpg" class="pic"></image>
       
@@ -26,7 +26,7 @@
         <view class="price"><label>￥</label>168<label>.00</label></view>
       </view>
     </view>
-    <view data-wpy-evt="8-2" bindtap="_proxy" class="item">
+    <view data-wpy-evt="7-2" bindtap="_proxy" class="item">
       
       <image src="/static/uploads/goods_3.jpg" class="pic"></image>
       
@@ -35,7 +35,7 @@
         <view class="price"><label>￥</label>168<label>.00</label></view>
       </view>
     </view>
-    <view data-wpy-evt="8-3" bindtap="_proxy" class="item">
+    <view data-wpy-evt="7-3" bindtap="_proxy" class="item">
       
       <image src="/static/uploads/goods_4.jpg" class="pic"></image>
       
@@ -44,7 +44,7 @@
         <view class="price"><label>￥</label>168<label>.00</label></view>
       </view>
     </view>
-    <view data-wpy-evt="8-4" bindtap="_proxy" class="item">
+    <view data-wpy-evt="7-4" bindtap="_proxy" class="item">
       
       <image src="/static/uploads/goods_5.jpg" class="pic"></image>
       

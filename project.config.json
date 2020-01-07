@@ -8,8 +8,10 @@
 	},
 	"compileType": "miniprogram",
 	"appid": "wx88efc5bd3db8d0ed",
-	"projectname": "ugo",
+	"projectname": "%E9%BB%91%E9%A9%AC%E4%BC%98%E8%B4%AD",
 	"miniprogramRoot": "weapp/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

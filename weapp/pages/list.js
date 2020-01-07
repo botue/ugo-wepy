@@ -12,35 +12,35 @@ _core["default"].page({
       });
     }
   }
-}, {info: {"components":{},"on":{}}, handlers: {'8-0': {"tap": function proxy () {
+}, {info: {"components":{},"on":{}}, handlers: {'7-0': {"tap": function proxy () {
     var $event = arguments[arguments.length - 1];
     var _vm=this;
       return (function () {
         _vm.goDetail($event)
       })();
     
-  }},'8-1': {"tap": function proxy () {
+  }},'7-1': {"tap": function proxy () {
     var $event = arguments[arguments.length - 1];
     var _vm=this;
       return (function () {
         _vm.goDetail($event)
       })();
     
-  }},'8-2': {"tap": function proxy () {
+  }},'7-2': {"tap": function proxy () {
     var $event = arguments[arguments.length - 1];
     var _vm=this;
       return (function () {
         _vm.goDetail($event)
       })();
     
-  }},'8-3': {"tap": function proxy () {
+  }},'7-3': {"tap": function proxy () {
     var $event = arguments[arguments.length - 1];
     var _vm=this;
       return (function () {
         _vm.goDetail($event)
       })();
     
-  }},'8-4': {"tap": function proxy () {
+  }},'7-4': {"tap": function proxy () {
     var $event = arguments[arguments.length - 1];
     var _vm=this;
       return (function () {

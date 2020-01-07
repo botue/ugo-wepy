@@ -32,8 +32,8 @@
   
   <view class="action">
     <button open-type="contact">联系客服</button>
-    <label data-wpy-evt="6-3" bindtap="_proxy" class="cart">购物车</label>
+    <label data-wpy-evt="6-0" bindtap="_proxy" class="cart">购物车</label>
     <label class="add">加入购物车</label>
-    <label data-wpy-evt="6-4" bindtap="_proxy" class="buy">立即购买</label>
+    <label data-wpy-evt="6-1" bindtap="_proxy" class="buy">立即购买</label>
   </view>
 </view>

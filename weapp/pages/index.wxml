@@ -1,7 +1,7 @@
 
 <view class="container">
   
-  <search bind_init="_initComponent" data-wpy-evt="2-16" bindsearch="_proxy"></search>
+  <search bind_init="_initComponent" data-wpy-evt="2-0" bindsearch="_proxy"></search>
   
   <swiper indicator-dots="{{ true }}" indicator-color="rgba(255, 255, 255, 0.6)" indicator-active-color="#fff" class="banner">
     <swiper-item>
